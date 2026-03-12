@@ -2,7 +2,7 @@
 
 A GNOME Shell extension that adds a Quick Settings toggle for [byedpi-turkey](https://github.com/elrondforwin/byedpi-turkey) DPI bypass tunnel.
 
-<img src="screenshots/toggle.png" width="204">
+<img src="screenshots/toggle.png" width="300">
 
 ## Features
 
