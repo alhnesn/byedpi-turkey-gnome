@@ -227,15 +227,7 @@ class ByeDPIIndicator extends QuickSettings.SystemIndicator {
     _init() {
         super._init();
 
-        this._indicator = this._addIndicator();
-        this._indicator.iconName = 'network-vpn-symbolic';
-        this._indicator.visible = false;
-
         this._toggle = new ByeDPIToggle();
-        this._toggle.bind_property('checked',
-            this._indicator, 'visible',
-            GObject.BindingFlags.SYNC_CREATE);
-
         this.quickSettingsItems.push(this._toggle);
     }
 
