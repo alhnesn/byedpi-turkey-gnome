@@ -1,0 +1,7 @@
+{
+    "uuid": "byedpi-turkey-gnome@alhnesn",
+    "name": "ByeDPI Turkey",
+    "description": "Quick Settings toggle to control byedpi-turkey DPI bypass tunnel. Start, stop, and switch profiles directly from the system menu.",
+    "shell-version": ["49"],
+    "url": "https://github.com/elrondforwin/byedpi-turkey"
+}
