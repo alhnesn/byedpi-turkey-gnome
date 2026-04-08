@@ -15,7 +15,7 @@ A GNOME Shell extension that adds a Quick Settings toggle for [byedpi-turkey](ht
 
 ## Requirements
 
-- GNOME 49
+- GNOME 49 or 50
 - [byedpi-turkey](https://github.com/elrondforwin/byedpi-turkey) installed and configured
 
 ## Installation
